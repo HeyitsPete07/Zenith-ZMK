@@ -104,7 +104,7 @@
             // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
             bindings = <
-&kp ESCAPE  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BACKSPACE  &kp DELETE  &kp A  &HML LEFT_CONTROL S  &HML LEFT_ALT D  &HML LEFT_GUI F  &kp G  &kp H  &HMR RIGHT_GUI J  &HMR RIGHT_ALT K  &HMR RIGHT_CONTROL L  &kp SEMICOLON  &kp SQT  &kp BACKSLASH  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ENTER  &mo 1  &kp LEFT_SHIFT  &HML PLUS EQUAL  &HMR LS(MINUS) MINUS  &kp SPACE  &lt 2 TAB
+&kp ESCAPE  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp BACKSPACE  &kp DELETE  &kp A  &HML LEFT_CONTROL S  &HML LEFT_ALT D  &HML LEFT_GUI F  &kp G  &kp H  &HMR RIGHT_GUI J  &HMR RIGHT_ALT K  &HMR RIGHT_CONTROL L  &kp SEMICOLON  &kp SQT  &kp BACKSLASH  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ENTER  &kp LEFT_SHIFT  &mo 1  &HML PLUS EQUAL  &HMR LS(MINUS) MINUS  &lt 2 TAB  &kp SPACE
             >;
         };
 
